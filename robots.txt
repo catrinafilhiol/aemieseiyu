@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feimiengie.jolandaverhoef.com/sitemap.xml
